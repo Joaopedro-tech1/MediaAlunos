@@ -8,7 +8,7 @@ Este projeto é um sistema de **cadastro de alunos** e **cálculo de médias** s
 
 - Cadastro de novos alunos com nome e duas notas  
 - Cálculo automático da média das notas  
-- Verificação de aprovação (média >= 7.0)  
+- Verificação de aprovação (média >= 6.0)  
 - Visualização de alunos cadastrados  
 - Atualização de informações de alunos  
 - Exclusão de alunos  
